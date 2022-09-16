@@ -32,7 +32,7 @@
     
 4. Model Serving(모델서빙)
     - RestAPI
-        - Flask
+        - Flask, ORM(sqlalchemy)
         - HTML, Javascript, Bootstrap
         - Nginx
     
